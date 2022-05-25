@@ -1,0 +1,14 @@
+.contact-div {
+	display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.inside-div {
+	margin: 2%;
+}
+
+.about-title{
+    padding-bottom: 20px;
+    font-size: 1.7rem;
+}

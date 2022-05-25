@@ -1,0 +1,53 @@
+.favorite-btn {
+	cursor: pointer;
+	color: rgb(230, 42, 42);
+	text-shadow: 0px 0px 2px black;
+	font-size: 3rem;
+	text-align: right;
+	margin-top: -80px;
+	padding-right: 20px;
+}
+
+.card {
+	width: 30%;
+	box-shadow: 0px 0px 4px 4px rgb(218, 210, 210);
+	border-radius: 20px !important ;
+	color: white;
+	border: 3px solid #a7717b !important;
+	overflow: hidden;
+}
+
+.userDiv {
+	padding: 10px 20px;
+	background-color: #f8f0e9;
+	color: black;
+}
+
+.card-title {
+	margin-top: 10px;
+	text-align: center;
+	color: black;
+	font-size: 1.7rem;
+}
+
+.imageCard {
+	width: 170px;
+	height: 250px;
+	padding: 10px 0px;
+}
+
+.card-body {
+	padding: 5px 20px !important;
+}
+
+.getRecipe{
+	height: 60px;
+}
+
+.get {
+	text-align: right;
+	padding: 15px;
+	position: absolute;
+	bottom: 0;
+	right: 5px;
+}

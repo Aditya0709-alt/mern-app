@@ -1,0 +1,42 @@
+.navbar-brand {
+	color: white !important;
+	font-size: 1.5rem !important;
+}
+
+.active {
+	background-color: #f8f0e9;
+}
+
+header,
+.footer {
+	background-color: #a7717b;
+	color: white !important;
+}
+.nanLink {
+	color: black !important;
+}
+
+.nanLink:hover {
+	transition: all 0.3s;
+	transform: scale(1.2);
+}
+
+.scroll-logout {
+	padding-top: 10px !important;
+	background-color: #a7717b !important;
+}
+
+.dropdown-item {
+	background-color: #a7717b !important;
+}
+
+.navIcon {
+	position: relative;
+	right: 10px;
+	top: -27px;
+	height: 10px;
+	width: 20px;
+	font-size: 2rem;
+	display: block;
+	padding: 0;
+}

@@ -1,0 +1,101 @@
+.homeDiv {
+	background-image: url("../images/main2.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 80vh;
+}
+
+.homePageHeader {
+	border-radius: 10px;
+	text-align: center;
+	width: 50vw;
+	margin: auto;
+	color: white;
+	font-size: 1.7rem !important;
+	font-weight: 700;
+	text-shadow: 1px 2px 2px black;
+}
+
+#root
+	> div
+	> main
+	> div.container-fluid.homeDiv
+	> div
+	> div
+	> div.row.pt-3
+	> div
+	> h1 {
+	font-size: 3rem !important;
+}
+
+.home-section {
+	margin-top: 3%;
+	margin-left: 10%;
+	color: white;
+}
+.home-section > h2 {
+	font-size: 2rem;
+	font-family: "Helvetica";
+	text-shadow: 3px 3px black;
+}
+.home-section > article > p {
+	font-size: 1.3rem;
+	text-shadow: 2px 2px black;
+}
+
+.signBtn {
+	margin-left: 15%;
+	background-color: #f8f0e9 !important;
+}
+
+.edamam-box {
+	margin-top: 10%;
+}
+.edamam-h5 {
+	color: #014029 !important;
+}
+
+.btn-group {
+	border-radius: 50px !important;
+}
+.btn-food {
+	background-color: #f8f0e9 !important;
+	color: #a7717b !important;
+	padding: 8px;
+	border-radius: 5px;
+}
+.btn-food:hover {
+	background-color: #a7717b !important;
+	color: #ff8198 !important;
+	text-decoration: none;
+}
+
+.searchInput {
+	border: 1px solid #014029 !important;
+}
+
+.pdis {
+	display: inline;
+}
+
+@media screen and (max-width: 941px) {
+	.pdis {
+		display: block !important;
+	}
+}
+@media screen and (max-width: 860px) {
+	.homeDiv {
+		height: 100vh;
+	}
+}
+@media screen and (max-width: 685px) {
+	.homeDiv {
+		height: 120vh;
+	}
+}
+@media screen and (max-width: 483px) {
+	.homeDiv {
+		height: 150vh;
+	}
+}
