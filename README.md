@@ -1,7 +1,5 @@
 # FoodTrip 
 
-## Tech
-
 ![image of MERN-Stack](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/129195859/original/e6a55e9dc89755bc3cbe0a5fc6605eefa336dafa/be-your-mern-stack-developer-mongodb-express-react-nodejs.png)
 
 * [React]() - JavaScript library for building user interfaces!
